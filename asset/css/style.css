@@ -1,0 +1,48 @@
+body{
+	
+	background: #90a4ae;
+}
+
+#logoo{
+	padding-left: 10px;
+}
+
+#img{
+	    width: 1206px;
+}
+.parallax-container{
+	    height: 430px;
+}
+
+.thin-text{
+	font-weight: 300;
+	background: rgba(80,125,139,.4);
+	padding: 40px;
+	border-radius: 10px;
+}
+#cssimg{
+	height: 1000px;
+}
+#css{
+	font-weight: 300;
+	background: rgba(80,125,139,.4);
+	padding: 40px;
+	border-radius: 10px;
+}
+
+.cta{
+	font-weight: 300;
+	text-shadow: 1px 1px black;
+}
+
+#javascript{
+	height: 500px;
+}
+
+#contact{
+	background: midnightblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
